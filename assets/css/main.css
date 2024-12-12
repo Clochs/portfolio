@@ -1761,8 +1761,8 @@ input, select, textarea {
 		}
 
 			.image.avatar48 img {
-				width: 48px;
-				height: 48px;
+				width: 82px;
+				height: 62px;
 			}
 
 		.image.fit {
@@ -2218,7 +2218,7 @@ input, select, textarea {
 		}
 
 			#main > section.dark {
-				color: #ddd;
+				color: black;
 				color: rgba(255, 255, 255, 0.75);
 			}
 
@@ -2248,7 +2248,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("../../images/treesFog.jpg");
 			}
 
 			#main > section.two {
